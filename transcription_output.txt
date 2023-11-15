@@ -1,0 +1,63 @@
+Original: 안녕하세요
+Translation: Hello
+
+Original: 시청해주셔서 감사합니다!
+Translation: Thank you for visiting!
+
+Original: 시청해주셔서 감사합니다!
+Translation: Thank you for visiting!
+
+Original: 잘 먹었습니다
+Translation: Well Eated
+
+Original: 
+Translation: 
+
+Original: 시청해주셔서 감사합니다!
+Translation: Thank you for visiting!
+
+Original: 시청해주셔서 감사합니다!
+Translation: Thank you for visiting!
+
+Original: 사랑해
+Translation: About Us
+
+Original: 시청해주셔서 감사합니다!
+Translation: Thank you for visiting!
+
+Original: 시청해주셔서 감사합니다!
+Translation: Thank you for visiting!
+
+Original: 보고 싶다
+Translation: Follow us
+
+Original: 안녕 à세요
+Translation: Hello à
+
+Original: 잘 먹었습니다.
+Translation: Well eating.
+
+Original: 감사합니다.
+Translation: About Us
+
+Original: 사랑해
+Translation: About Us
+
+Original: 사랑해요
+Translation: About Us
+
+Original: 
+Translation: 
+
+Original: 보고 싶어서
+Translation: Follow us
+
+Original: 오늘도 시청해주셔서 감사합니다.
+Translation: Thank you for visiting today.
+
+Original: orsch고 mist
+Translation: orsch and mist
+
+Original: 하나님해
+Translation: About Us
+
